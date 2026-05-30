@@ -3,6 +3,7 @@
 A machine learning project that detects when a language model is likely hallucinating, using token probability and self-consistency signals.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shlokbandiwar/hallucination-detector/blob/main/hallucination_detector.ipynb)
+[![Live Demo](https://img.shields.io/badge/🤗-Live%20Demo-yellow)](https://huggingface.co/spaces/Craniax16/hallucination-detector)
 
 ## What this project does
 - Extracts token probability and self-consistency signals from GPT-2
